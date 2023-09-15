@@ -1,0 +1,26 @@
+body {
+    background-color: #ffd69a;
+}
+
+h1 {
+    color: blue;
+}
+
+.notif {
+width: 80%;
+padding: 15px;
+border-radius: 25px;
+box-shadow: 0 15px 10px blue;
+}
+
+.alert {
+    background-color: red;
+}
+
+.block {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    border-radius: 25%;
+}
